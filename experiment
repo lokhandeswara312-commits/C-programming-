@@ -1,4 +1,7 @@
-
+/* Name: Swara Lokhande 
+Div: B 
+Class: CIVIL
+UIN: 251C043
 #include <stdio.h>
 int main()
 {
@@ -24,3 +27,4 @@ int main()
 
     return 0;
 }
+
